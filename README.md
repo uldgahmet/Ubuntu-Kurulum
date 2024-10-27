@@ -8,7 +8,7 @@ Ubuntu, Linux çekirdeği temel alınarak geliştirilmiş, ücretsiz ve açık k
 
 
 
-Sayfanın üstünde yer alan ubuntuyu edininine tıklıyoruz. Açılan yerdeki ubuntuyu Masaüstüne İndirine Tıklıyoruz ve bizi hangi sürümünü indireceğimizi seçeceğimiz sayfayı açıyor. hangi sürümü indireceksek onu seçiyoruz ve indirmeye başlıyor.
+Sayfanın üstünde yer alan ubuntuyu edininine tıklıyoruz. Açılan yerdeki ubuntuyu Masaüstüne İndirine Tıklıyoruz ve bizi hangi Sürümünü indireceğimizi seçeceğimiz sayfayı açıyor. hangi Sürümü indireceksek onu seçiyoruz ve indirmeye başlıyor.
 
 ![ubuntu indirme2](https://github.com/uldgahmet/Ubuntu-Kurulum/blob/main/indirme%202.png)
 
@@ -59,7 +59,7 @@ bu işlemi ekranın sol alt köşesindeki windows simgesine gelip sağ tıklıyo
 
 
 
-Burda en büyük diskimizin üstüne gelip sağ tıklıyoruz birimi küçülte tıklıyoruz ve çıkan ekranda diskimizden ne kadar alan ayıracağımızı soruyor bunları ayarladıktan sonra küçülte tıklıyoruz ve ayırmış oluyoruz .
+Burda en büyük diskimizin üstüne gelip sağ tıklıyoruz birimi küçülte tıklıyoruz ve çıkan ekranda diskimizden ne kadar alan ayıracağımızı soruyor bunları ayarladıktan sonra küçülte tıklıyoruz ve Ayırmış Oluyoruz .
 
 
 
